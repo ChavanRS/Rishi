@@ -1,1 +1,3 @@
 Hello git
+
+Todays date is 10th feb. This is my 3rd lecture
